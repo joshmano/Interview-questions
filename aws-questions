@@ -1,0 +1,98 @@
+
+---
+
+## 🔹 Basic AWS Questions (Warm-up)
+
+1. What is AWS and why do companies use it?
+2. What are the main AWS services you’ve worked on?
+3. What is the difference between **EC2** and **Lambda**?
+4. What is an **AMI** and why do we use it?
+5. What is the difference between **S3** and **EBS**?
+6. What is a **Region** and **Availability Zone**?
+7. What is **IAM** and why is it important?
+8. Difference between **Security Group** and **NACL**?
+
+---
+
+## 🔹 EC2 & Compute (Real-time focus)
+
+1. How do you choose an EC2 instance type?
+2. What happens when an EC2 instance is stopped vs terminated?
+3. How do you troubleshoot EC2 instance not reachable?
+4. How do you reduce EC2 cost in production?
+5. What is **Auto Scaling** and when did you use it?
+6. What is a **Launch Template**?
+
+---
+
+## 🔹 IAM (Very important for interviews)
+
+1. What is the difference between **IAM User, Role, and Group**?
+2. Why do we prefer **IAM Roles** over access keys?
+3. What is **least privilege**?
+4. Have you used **cross-account access**? How?
+5. What is a **policy** and how is it evaluated?
+6. What is the use of **STS**?
+
+---
+
+## 🔹 S3 & Storage
+
+1. What are S3 storage classes?
+2. Difference between **S3 and EFS**?
+3. How do you secure an S3 bucket?
+4. What is **versioning** in S3?
+5. What is **lifecycle policy**?
+6. How do you recover deleted data in S3?
+
+---
+
+## 🔹 VPC & Networking (Common failure area)
+
+1. What is a **VPC**?
+2. Difference between **public and private subnet**?
+3. What is **Internet Gateway** and **NAT Gateway**?
+4. How does routing work in a VPC?
+5. What is **VPC Peering**?
+6. How does traffic flow from ALB → EC2?
+
+---
+
+## 🔹 Load Balancer & High Availability
+
+1. Difference between **ALB**, **NLB**, and **CLB**?
+2. Which load balancer do you use for microservices and why?
+3. How does health check work?
+4. What happens if one AZ goes down?
+
+---
+
+## 🔹 CI/CD & DevOps on AWS
+
+1. How do you deploy an application with zero downtime on AWS?
+2. How do you store secrets in AWS?
+3. How do you integrate Jenkins/GitHub Actions with AWS?
+4. How do you manage infra using Terraform in AWS?
+5. What is blue-green deployment?
+
+---
+
+## 🔹 Monitoring & Security
+
+1. What is **CloudWatch** and what do you monitor?
+2. Difference between **CloudWatch Metrics** and **Logs**?
+3. How do you get alerts when CPU is high?
+4. How do you audit AWS account activity?
+5. What is **CloudTrail**?
+
+---
+
+## 🔹 Scenario-Based (Very important)
+
+1. Your EC2 is running but application is not accessible. How do you debug?
+2. S3 bucket data got deleted accidentally. What will you do?
+3. How do you design a **highly available architecture** in AWS?
+4. How do you restrict production access for developers?
+5. Application is slow only during peak hours. How do you investigate?
+
+---
