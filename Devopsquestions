@@ -1,0 +1,106 @@
+
+---
+
+## 🔹 Core DevOps Concepts
+
+1. What is DevOps and why is it important?
+2. What problems does DevOps solve in real projects?
+3. Difference between **CI** and **CD**?
+4. What is **Infrastructure as Code (IaC)**?
+5. How DevOps improves release frequency and stability?
+
+---
+
+## 🔹 CI/CD (Very common)
+
+1. Explain your CI/CD pipeline from code commit to production.
+2. How do you achieve **zero-downtime deployment**?
+3. Difference between **blue-green** and **rolling deployment**?
+4. What happens if a deployment fails?
+5. How do you handle environment-specific configurations?
+6. How do you secure pipelines?
+
+---
+
+## 🔹 Git & Version Control
+
+1. What branching strategy do you follow?
+2. Difference between **merge** and **rebase**?
+3. How do you resolve merge conflicts?
+4. How do you revert a bad commit in production?
+5. What is a **pull request** and why is it important?
+
+---
+
+## 🔹 Docker (Must know)
+
+1. What is Docker and why use it?
+2. Difference between **image** and **container**?
+3. What is a **Dockerfile**?
+4. How do containers communicate?
+5. What is the difference between **CMD** and **ENTRYPOINT**?
+6. How do you reduce Docker image size?
+
+---
+
+## 🔹 Kubernetes (High weight)
+
+1. Why do we need Kubernetes?
+2. Difference between **Pod** and **Container**?
+3. What is a **Deployment**?
+4. Difference between **ClusterIP, NodePort, LoadBalancer**?
+5. What is **ConfigMap** and **Secret**?
+6. How do you debug a pod in CrashLoopBackOff?
+7. What is **HPA** and how does it work?
+
+---
+
+## 🔹 Cloud (AWS focused)
+
+1. How DevOps works in cloud?
+2. How do you deploy applications on AWS?
+3. What AWS services you use in DevOps?
+4. How do you store secrets securely?
+5. How do you manage IAM access for DevOps?
+
+---
+
+## 🔹 Terraform / IaC
+
+1. What is Terraform and why use it?
+2. What is **state file**?
+3. Difference between **terraform plan** and **apply**?
+4. How do you manage multiple environments?
+5. How do you handle Terraform state locking?
+
+---
+
+## 🔹 Monitoring & Logging
+
+1. Difference between **monitoring** and **observability**?
+2. What tools have you used for monitoring?
+3. What metrics do you monitor in production?
+4. How do you set alerts?
+5. How do you troubleshoot production issues?
+
+---
+
+## 🔹 Security & Best Practices
+
+1. What is **DevSecOps**?
+2. How do you scan Docker images?
+3. How do you protect secrets?
+4. How do you control production access?
+5. How do you handle compliance and audits?
+
+---
+
+## 🔹 Scenario-Based (Interview favorite)
+
+1. Deployment failed in production. What will you do?
+2. Application is down at midnight. What are your steps?
+3. CI pipeline is slow. How do you optimize it?
+4. One pod is consuming high memory. How do you debug?
+5. Developers want direct prod access. What do you do?
+
+---
