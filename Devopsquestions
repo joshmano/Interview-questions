@@ -30,6 +30,7 @@
 4. How do you revert a bad commit in production?
 5. What is a **pull request** and why is it important?
 6. What is the difference between git pull and fetch
+7. What is the dif between git rebase and merge
 
 ---
 
