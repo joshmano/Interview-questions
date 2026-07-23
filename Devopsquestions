@@ -40,6 +40,7 @@
 4. How do containers communicate?
 5. What is the difference between **CMD** and **ENTRYPOINT**?
 6. How do you reduce Docker image size?
+7. How do u optimize the 2gb Docker image to 200mb image?
 
 ---
 
