@@ -52,6 +52,7 @@
 5. What is **ConfigMap** and **Secret**?
 6. How do you debug a pod in CrashLoopBackOff?
 7. What is **HPA** and how does it work?
+8. Which deployment strategy you have used?
 
 ---
 
